@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetTracking", "AssetTracking\AssetTracking.csproj", "{BEDB9DC2-41A2-41C7-84DA-67540C7DD65B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDB9DC2-41A2-41C7-84DA-67540C7DD65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDB9DC2-41A2-41C7-84DA-67540C7DD65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDB9DC2-41A2-41C7-84DA-67540C7DD65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDB9DC2-41A2-41C7-84DA-67540C7DD65B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA9B793-6314-4A58-BFD3-93FDEB70F6A1}
+	EndGlobalSection
+EndGlobal

@@ -8,7 +8,7 @@ namespace AssetTracking
 {
     internal class Computer : Asset
     {
-        public Computer(string type, string brand, string model, string office, DateTime purchaseDate, int price) : base(office, purchaseDate, price)
+        public Computer(string type, string brand, string model, string office, DateTime purchaseDate, double price) : base(office, purchaseDate, price)
         {
             Type = type;
             Brand = brand;

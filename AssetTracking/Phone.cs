@@ -8,7 +8,7 @@ namespace AssetTracking
 {
     internal class Phone : Asset
     {
-        public Phone(string type, string brand, string model, string office, DateTime purchaseDate, int price) : base(office, purchaseDate, price)
+        public Phone(string type, string brand, string model, string office, DateTime purchaseDate, double price) : base(office, purchaseDate, price)
         {
             Type = type;
             Brand = brand;
